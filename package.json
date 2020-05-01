@@ -22,6 +22,7 @@
     "release:gmail": "cd ./apps/gmail/ && npm run build",
     "release:jupyter": "cd ./apps/jupyter/ && npm run build",
     "release:whatsapp": "cd ./apps/whatsapp/ && npm run build",
+    "release:youtube": "cd ./apps/youtube/ && npm run build",
     "release": "npm-run-all release:*"
   }
 }
